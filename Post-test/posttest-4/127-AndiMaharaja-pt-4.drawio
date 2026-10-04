@@ -1,0 +1,192 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
+  <diagram name="Flowchart Musik" id="-KBcQcpY2qNOp4PxSRtG">
+    <mxGraphModel dx="7310" dy="4190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-4" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="MULAI" vertex="1">
+          <mxGeometry height="80" width="120" x="-2750" y="-1730" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-6" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;strong&gt;Input Username dan Password&lt;/strong&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-2750" y="-1560" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-8" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="tidak">
+          <mxGeometry relative="1" x="-0.7209" y="5" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-2880" y="-1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-15" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-14" value="YA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Apakah Username dan Password benar?" vertex="1">
+          <mxGeometry height="150" width="160" x="-2770" y="-1430" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-16" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2993.75" y="-1220" />
+              <mxPoint x="-2993.75" y="-1539.92" />
+              <mxPoint x="-2740" y="-1539.92" />
+              <mxPoint x="-2740" y="-1541.5" />
+            </Array>
+            <mxPoint x="-2940" y="-1220" as="sourcePoint" />
+            <mxPoint x="-2750.003846153846" y="-1541.5384615384614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-20" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Input Pulau" vertex="1">
+          <mxGeometry height="50" width="150" x="-2765" y="-1240" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-22" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-21" value="TIDAK">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2290" y="-1119.96" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-26" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-25" value="YA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Apakah Pulau = KALIMANTAN?" vertex="1">
+          <mxGeometry height="120" width="150" x="-2765" y="-1150" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-24" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-23" value="YA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-28" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-27" value="TIDAK">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&amp;nbsp;Apakah Pulau = SUMATERA?" vertex="1">
+          <mxGeometry height="90" width="120" x="-2350" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-35" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-23" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;Input Jenis Lahan (GAMBUT / MINERAL)" vertex="1">
+          <mxGeometry height="80" width="170" x="-2375" y="-960" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-32" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-25" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;Input Jenis Lahan (GAMBUT / MINERAL)" vertex="1">
+          <mxGeometry height="80" width="180" x="-2780" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2130" y="-1220" />
+              <mxPoint x="-2625" y="-1220" />
+            </Array>
+            <mxPoint x="-2130" y="-1060" as="sourcePoint" />
+            <mxPoint x="-2600" y="-1215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-27" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Tampilkan pesan: &quot;Pulau tidak valid!&quot; kembali ke Input Pulau" vertex="1">
+          <mxGeometry height="80" width="135" x="-2180" y="-1085" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-30" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Tampilkan &lt;code&gt;&quot;Username atau Password salah&quot;&lt;/code&gt; → kembali ke &lt;strong&gt;Input Username dan Password&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="160" x="-2950" y="-1250" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-37" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-36" value="YA&amp;nbsp;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-39" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-38" value="TIDAK&amp;nbsp;">
+          <mxGeometry relative="1" x="-0.2075" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Apakah Jenis Lahan = GAMBUT?" vertex="1">
+          <mxGeometry height="100" width="115" x="-2747.5" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-41" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-40" value="YA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-44" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-43" value="TIDAK">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Apakah Jenis Lahan = GAMBUT?" vertex="1">
+          <mxGeometry height="100" width="120" x="-2350" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-49" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-36" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa; &lt;strong&gt;Kategori = Kalimantan-Gambut&lt;/strong&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="-2870" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-48" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-38" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Kategori = Kalimantan-Mineral&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-2630" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-47" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-40" parent="1" style="whiteSpace=wrap;html=1;" value="Kategori = Sumatera-Gambut" vertex="1">
+          <mxGeometry height="60" width="120" x="-2480" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-46" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-43" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Kategori = Sumatera-Mineral&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-2220" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-51" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-45" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&amp;nbsp;Input Jumlah Titik Api (Hotspot)" vertex="1">
+          <mxGeometry height="60" width="235" x="-2610" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-53" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-50" parent="1" style="whiteSpace=wrap;html=1;" value="&#xa;Luas Lahan Terbakar = Hotspot × 5 Hektare&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="-2552.5" y="-460" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-55" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-52" parent="1" style="whiteSpace=wrap;html=1;" value="Tambahkan luas ke total kategori masing-masing" vertex="1">
+          <mxGeometry height="60" width="120" x="-2552.5" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-57" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oUKXU1h6gR0zvbsd_eDw-56" value="TIDAK">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-58" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2959.89" y="-169.89" />
+              <mxPoint x="-2959.89" y="-1089.89" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-59" connectable="0" parent="oUKXU1h6gR0zvbsd_eDw-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="YA" vertex="1">
+          <mxGeometry relative="1" x="-0.9395" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-54" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Input data lagi? (Y / T)" vertex="1">
+          <mxGeometry height="120" width="132.5" x="-2558.75" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-61" edge="1" parent="1" source="oUKXU1h6gR0zvbsd_eDw-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oUKXU1h6gR0zvbsd_eDw-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-56" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Kalimantan-Gambut  : ... Hektare&lt;br/&gt;Kalimantan-Mineral : ... Hektare&lt;br/&gt;Sumatera-Gambut    : ... Hektare&lt;br/&gt;Sumatera-Mineral   : ... Hektare" vertex="1">
+          <mxGeometry height="90" width="202.5" x="-2593.75" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="oUKXU1h6gR0zvbsd_eDw-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="SELESAI" vertex="1">
+          <mxGeometry height="80" width="120" x="-2552" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
